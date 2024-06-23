@@ -1,0 +1,25 @@
+
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+c	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ç±´
+U
+java:S11170":Rename "editor" which hides the field declared at line 38.(ÀÂ©Éÿÿÿÿÿ
+U
+java:S1117<":Rename "editor" which hides the field declared at line 38.(ÀÂ©Éÿÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(àžñöüÿÿÿÿ
+Q
+java:S1117•":Rename "editor" which hides the field declared at line 38.(åŒÃê
+3
+java:S1116•"Remove this empty statement.(åŒÃê
+Q
+java:S1117›":Rename "editor" which hides the field declared at line 38.(åŒÃê
+3
+java:S1116›"Remove this empty statement.(åŒÃê
+Q
+java:S1117¡":Rename "editor" which hides the field declared at line 38.(åŒÃê
+3
+java:S1116¡"Remove this empty statement.(åŒÃê
+Q
+java:S1117¨":Rename "editor" which hides the field declared at line 38.(åŒÃê
+3
+java:S1116¨"Remove this empty statement.(åŒÃê

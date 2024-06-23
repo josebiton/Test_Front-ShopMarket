@@ -1,0 +1,41 @@
+
+n
+java:S1192/"XDefine a constant instead of duplicating this literal "Error en la solicitud: " 3 times.(â®„™
+b
+java:S1192G"GDefine a constant instead of duplicating this literal "precio" 3 times.(§Á¿ºùÿÿÿÿ
+a
+java:S11921"FDefine a constant instead of duplicating this literal "Code " 3 times.(¿×ã˜øÿÿÿÿ
+i
+java:S1192Z"TDefine a constant instead of duplicating this literal "Producto parseado: " 3 times.(ÊÉ’W
+f
+java:S11923"KDefine a constant instead of duplicating this literal "ApiManager" 9 times.(œÇÍÿøÿÿÿÿ
+d
+java:S1192Q"IDefine a constant instead of duplicating this literal "imagenes" 3 times.(š´ù’ùÿÿÿÿ
+\
+java:S1192Z"GDefine a constant instead of duplicating this literal "Mesias" 3 times.(ÊÉ’W
+f
+java:S1192F"PDefine a constant instead of duplicating this literal "producto_nombre" 3 times.(§ÛóÓ
+h
+java:S1192V"RDefine a constant instead of duplicating this literal "Imagen parseada: " 3 times.(îÑŠ†
+b
+java:S1192E"LDefine a constant instead of duplicating this literal "producto_id" 3 times.(ƒ¯›
+n
+java:S1192_"XDefine a constant instead of duplicating this literal "Error al parsear JSON: " 3 times.(¬âÖ÷
+C
+java:S1604%"(Make this anonymous inner class a lambda(Ý·€“øÿÿÿÿ
+=
+java:S1604,"(Make this anonymous inner class a lambda(–§º
+C
+java:S1604r"(Make this anonymous inner class a lambda(Ý·€“øÿÿÿÿ
+=
+java:S1604y"(Make this anonymous inner class a lambda(–§º
+D
+java:S1604½"(Make this anonymous inner class a lambda(äŠÂÖÿÿÿÿÿ
+>
+java:S1604Ä"(Make this anonymous inner class a lambda(–§º
+t
+java:S4144Š"^Update this method so that its implementation is not identical to "parseJsonArray" on line 61.(¿«Õ`
+V	java:S125H"<This block of commented-out lines of code should be removed.(ËëÖþÿÿÿÿ
+M
+java:S1135f"2Complete the task associated to this TODO comment.(´Å×¸ùÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(ËëÖþÿÿÿÿ

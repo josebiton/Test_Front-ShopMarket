@@ -1,0 +1,40 @@
+
+C
+java:S16045"(Make this anonymous inner class a lambda(ïËà¤ÿÿÿÿÿ
+C
+java:S1604="(Make this anonymous inner class a lambda(ÕÉ„Ìøÿÿÿÿ
+C
+java:S1604]"(Make this anonymous inner class a lambda(«êßæþÿÿÿÿ
+B
+java:S1659"",Declare "login_password" on a separate line.(¤™Õè
+D
+java:S1659%")Declare "getPassword" on a separate line.(ë¢ƒ½ûÿÿÿÿ
+k	java:S116""VRename this field "login_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™Õè
+n	java:S116""YRename this field "login_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™Õè
+n	java:S116$"YRename this field "close_activity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÚ¾Ñ
+L
+java:S1874&"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº
+Q
+java:S18742"6Remove this use of "ProgressDialog"; it is deprecated.(áú·¿ûÿÿÿÿ
+M
+java:S1874Y"2Remove this use of "setMessage"; it is deprecated.(„ï“Öüÿÿÿÿ
+J
+java:S1874\"/Remove this use of "Handler"; it is deprecated.(……œîùÿÿÿÿ
+U
+java:S1117`"?Rename "serviceAuth" which hides the field declared at line 39.(ÿ¯ºÐ
+K
+java:S2209a"5Change this instance-reference to a static reference.(å¨Î¼
+W
+java:S1874y"ARemove this use of "overridePendingTransition"; it is deprecated.(›ìˆ·
+T
+java:S1874Ž"8Remove this use of "VIBRATOR_SERVICE"; it is deprecated.(¸ªÙíýÿÿÿÿ
+K
+java:S1874”"/Remove this use of "vibrate"; it is deprecated.(ÄŽ¸”ûÿÿÿÿ
+B
+java:S1172™"+Remove this unused method parameter "view".(«ø’Ö
+]
+java:S1874œ"ARemove this use of "overridePendingTransition"; it is deprecated.(Ï»²¤ýÿÿÿÿ
+G
+java:S1172Ÿ"+Remove this unused method parameter "view".(·–ü®þÿÿÿÿ
+]
+java:S1874¢"ARemove this use of "overridePendingTransition"; it is deprecated.(Ï»²¤ýÿÿÿÿ

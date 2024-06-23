@@ -1,0 +1,23 @@
+
+P
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'android.text.Layout'.(ÔŠ²±úÿÿÿÿ
+A
+java:S1659*"+Declare "cart_subTotal" on a separate line.(Ó€à 
+B
+java:S1659*",Declare "cart_descuento" on a separate line.(Ó€à 
+m	java:S116*"XRename this field "cart_subTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó€à 
+n	java:S116*"YRename this field "cart_descuento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó€à 
+p	java:S116-"[Rename this field "carrito_recycler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇîõÜ
+m	java:S116."XRename this field "carrito_vacio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä³‡ş
+k	java:S116/"WRename this field "check_montos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ìÿ
+Q
+java:S1874"5Remove this use of "onBackPressed"; it is deprecated.(ùÃ¦Õøÿÿÿÿ
+d	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¹„Â
+B
+java:S1172¤"+Remove this unused method parameter "view".(”¹„Â

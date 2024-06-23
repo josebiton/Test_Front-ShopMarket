@@ -1,0 +1,33 @@
+
+>
+java:S1604U"(Make this anonymous inner class a lambda(¼§Àø
+C
+java:S1604g"(Make this anonymous inner class a lambda(¾Ë˜òşÿÿÿÿ
+>
+java:S1604Ú"(Make this anonymous inner class a lambda(•ŸŒx
+l
+java:S14505"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+F
+java:S16597"+Declare "rv_categorias" on a separate line.(Ÿı¬¬øÿÿÿÿ
+B
+java:S1659>"'Declare "accionVer" on a separate line.(›¼„ãûÿÿÿÿ
+H
+java:S1659>"-Declare "next_categorias" on a separate line.(›¼„ãûÿÿÿÿ
+q	java:S1167"WRename this field "rv_productos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿı¬¬øÿÿÿÿ
+r	java:S1167"XRename this field "rv_categorias" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿı¬¬øÿÿÿÿ
+n	java:S116:"TRename this field "c_Adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÔ±ƒÿÿÿÿÿ
+n	java:S116;"TRename this field "p_Adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—–Áíøÿÿÿÿ
+s	java:S116="YRename this field "next_productos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¸Éşÿÿÿÿ
+t	java:S116>"ZRename this field "next_categorias" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼„ãûÿÿÿÿ
+T
+java:S1874E"9Remove this use of "setHasOptionsMenu"; it is deprecated.(Ï™ñşÿÿÿÿ
+Q	java:S125o"<This block of commented-out lines of code should be removed.(ÄÙ¥Á
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Ê÷§şûÿÿÿÿ
+\
+java:S1117Á"@Rename "contaCarrito" which hides the field declared at line 52.(¹ë»ëûÿÿÿÿ
+`
+java:S1874Ï"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(å°¥
+K
+java:S10684"0Remove this unused "contaCarrito" private field.(ŸˆŸ¢úÿÿÿÿ
+M
+java:S10688"2Remove this unused "escuchaCarrito" private field.(ò«™Ôøÿÿÿÿ

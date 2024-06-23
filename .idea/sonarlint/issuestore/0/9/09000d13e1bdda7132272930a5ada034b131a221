@@ -1,0 +1,36 @@
+
+C
+java:S1604Q"(Make this anonymous inner class a lambda(±ÍÍÃúÿÿÿÿ
+>
+java:S1604d"(Make this anonymous inner class a lambda(õ‹è
+C
+java:S1604w"(Make this anonymous inner class a lambda(Ÿ°Ôşÿÿÿÿ
+D
+java:S1604†"(Make this anonymous inner class a lambda(ãı¬àşÿÿÿÿ
+?
+java:S1604ç"(Make this anonymous inner class a lambda(„ÑñŒ
+D
+java:S1604á"(Make this anonymous inner class a lambda(Á¢Úùÿÿÿÿ
+D
+java:S1604ï"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'android.telephony.PhoneNumberUtils'.(È—’¿
+a
+java:S1128"FRemove this unused import 'androidx.fragment.app.FragmentTransaction'.(¦İÚ¿şÿÿÿÿ
+^
+java:S1128'"CRemove this unused import 'com.task.shopmarket.views.MainActivity'.(Ò”©³ûÿÿÿÿ
+H
+java:S1659>"-Declare "cargarEvidencia" on a separate line.(ñ‹üÿÿÿÿ
+n	java:S116<"YRename this field "rv_metodo_pago" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢™‡¥
+|	java:S116>"bRename this field "btn_siguiente_confirmar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‹üÿÿÿÿ
+L
+java:S1874B"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+Q
+java:S1874K"6Remove this use of "ProgressDialog"; it is deprecated.(õ¹´ıüÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(›é—É
+I
+java:S1874Ÿ"2Remove this use of "setMessage"; it is deprecated.(…¼¼¬
+F
+java:S1874ç"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ
+V
+java:S1874û":Remove this use of "getFragmentManager"; it is deprecated.(ÔĞ˜€øÿÿÿÿ

@@ -1,0 +1,5 @@
+
+l	java:S116 "WRename this field "rv_productos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ì„Î
+n	java:S116!"TRename this field "p_Adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—–Áíøÿÿÿÿ
+P
+java:S1874S"5Remove this use of "onBackPressed"; it is deprecated.(ùÃ¦Õøÿÿÿÿ

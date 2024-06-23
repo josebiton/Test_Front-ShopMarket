@@ -1,0 +1,28 @@
+
+>
+java:S1604F"(Make this anonymous inner class a lambda(÷‰øè
+C
+java:S1604X"(Make this anonymous inner class a lambda(“”›şÿÿÿÿ
+>
+java:S1604s"(Make this anonymous inner class a lambda(ÜêÒÛ
+m
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÒÛå”üÿÿÿÿ
+M
+java:S1135E"2Complete the task associated to this TODO comment.(ËÁşøûÿÿÿÿ
+H
+java:S1135W"2Complete the task associated to this TODO comment.(û³Îæ
+M
+java:S1135r"2Complete the task associated to this TODO comment.(“ƒ–¾úÿÿÿÿ
+F
+java:S1659’"*Declare "txt_cantidad" on a separate line.(¶Ä­ûÿÿÿÿ
+=
+java:S1659”"&Declare "cart_mas" on a separate line.(†´æ
+?
+java:S1659”"(Declare "cart_menos" on a separate line.(†´æ
+l	java:S116‘"VRename this field "img_carrito" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éªúß
+y	java:S116’"^Rename this field "txt_nombre_producto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ä­ûÿÿÿÿ
+r	java:S116’"WRename this field "txt_cantidad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ä­ûÿÿÿÿ
+p	java:S116“"URename this field "txt_precio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ±ßøÿÿÿÿ
+m	java:S116”"WRename this field "btn_eliminar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†´æ
+i	java:S116”"SRename this field "cart_mas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†´æ
+k	java:S116”"URename this field "cart_menos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†´æ

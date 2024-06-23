@@ -1,0 +1,64 @@
+
+=
+java:S1604J"(Make this anonymous inner class a lambda(‚”¼d
+>
+java:S1604Q"(Make this anonymous inner class a lambda(Ü¬“
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'com.android.volley.RequestQueue'.(¹şÌ×
+S
+java:S1128"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ
+@
+java:S1659,"%Declare "nombres" on a separate line.(¹Æë¶üÿÿÿÿ
+B
+java:S1659,"'Declare "apellidos" on a separate line.(¹Æë¶üÿÿÿÿ
+>
+java:S1659,"#Declare "email" on a separate line.(¹Æë¶üÿÿÿÿ
+A
+java:S1659,"&Declare "telefono" on a separate line.(¹Æë¶üÿÿÿÿ
+B
+java:S1659,"'Declare "direccion" on a separate line.(¹Æë¶üÿÿÿÿ
+C
+java:S1659,"(Declare "persona_id" on a separate line.(¹Æë¶üÿÿÿÿ
+C
+java:S1659,"(Declare "referencia" on a separate line.(¹Æë¶üÿÿÿÿ
+>
+java:S1659-"(Declare "dr_nombres" on a separate line.(ÁğâÔ
+@
+java:S1659-"*Declare "dr_apellidos" on a separate line.(ÁğâÔ
+<
+java:S1659-"&Declare "dr_email" on a separate line.(ÁğâÔ
+?
+java:S1659-")Declare "dr_telefono" on a separate line.(ÁğâÔ
+@
+java:S1659-"*Declare "dr_direccion" on a separate line.(ÁğâÔ
+A
+java:S1659-"+Declare "dr_referencia" on a separate line.(ÁğâÔ
+F
+java:S1659."0Declare "btn_siguiente_pago" on a separate line.(ÙŠŒÏ
+C
+java:S16590"-Declare "linearDireccion" on a separate line.(¥•¿æ
+J
+java:S16590"4Declare "linearListaDirecciones" on a separate line.(¥•¿æ
+o	java:S116,"URename this field "persona_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Æë¶üÿÿÿÿ
+f	java:S116-"QRename this field "dr_dni" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+j	java:S116-"URename this field "dr_nombres" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+l	java:S116-"WRename this field "dr_apellidos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+h	java:S116-"SRename this field "dr_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+k	java:S116-"VRename this field "dr_telefono" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+l	java:S116-"WRename this field "dr_direccion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+m	java:S116-"XRename this field "dr_referencia" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁğâÔ
+j	java:S116."URename this field "btn_buscar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŠŒÏ
+r	java:S116."]Rename this field "btn_siguiente_pago" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŠŒÏ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ÙÑù†şÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(Û‚ı³ûÿÿÿÿ
+T
+java:S1117Û"=Rename "direccion" which hides the field declared at line 44.(àä
+Z
+java:S1117Ü">Rename "referencia" which hides the field declared at line 44.(¬¶Íùÿÿÿÿ
+c
+java:S1854é"GRemove this useless assignment to local variable "selectedIdDireccion".(õ¦˜áùÿÿÿÿ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(øÓèå
+T
+java:S1481é"8Remove this unused "selectedIdDireccion" local variable.(õ¦˜áùÿÿÿÿ

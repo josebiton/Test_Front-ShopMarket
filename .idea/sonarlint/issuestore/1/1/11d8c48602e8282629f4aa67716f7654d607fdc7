@@ -1,0 +1,7 @@
+
+>
+java:S1604J"(Make this anonymous inner class a lambda(¨É°Û
+p	java:S116]"VRename this field "pago_nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šá¸üÿÿÿÿ
+n	java:S116^"TRename this field "pago_logo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªØâ’ÿÿÿÿÿ
+i	java:S116_"TRename this field "pago_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÖÆë
+n	java:S116`"YRename this field "pg_progressbar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªø

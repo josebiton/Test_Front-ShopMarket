@@ -1,0 +1,65 @@
+
+\
+java:S2184»"FCast one of the operands of this multiplication operation to a "long".(…Ÿ$
+?
+java:S1604Ç"(Make this anonymous inner class a lambda(¨õÎ»
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+^
+java:S1128&"CRemove this unused import 'com.task.shopmarket.views.MainActivity'.(Ò”©³ûÿÿÿÿ
+=
+java:S1659/"'Declare "otp_phone" on a separate line.(Çêª
+9
+java:S16590"#Declare "otp_2" on a separate line.(öê®È
+9
+java:S16590"#Declare "otp_3" on a separate line.(öê®È
+9
+java:S16590"#Declare "otp_4" on a separate line.(öê®È
+9
+java:S16590"#Declare "otp_5" on a separate line.(öê®È
+9
+java:S16590"#Declare "otp_6" on a separate line.(öê®È
+j	java:S116/"URename this field "otp_resend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çêª
+i	java:S116/"TRename this field "otp_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çêª
+e	java:S1160"PRename this field "otp_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öê®È
+e	java:S1160"PRename this field "otp_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öê®È
+e	java:S1160"PRename this field "otp_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öê®È
+e	java:S1160"PRename this field "otp_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öê®È
+e	java:S1160"PRename this field "otp_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öê®È
+e	java:S1160"PRename this field "otp_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öê®È
+<
+java:S11703"!Make this final field static too.(±£©Æûÿÿÿÿ
+F
+java:S1172W"+Remove this unused method parameter "view".(É¤—óşÿÿÿÿ
+Q
+java:S2209„"5Change this instance-reference to a static reference.(üÁ¤ùÿÿÿÿ
+H
+java:S1602¡",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ
+Q
+java:S1874±"5Remove this use of "onBackPressed"; it is deprecated.(ùÃ¦Õøÿÿÿÿ
+O
+java:S1874Ğ"3Remove this use of "getInstance"; it is deprecated.(Ú©ã¬ıÿÿÿÿ
+U
+java:S1874Ğ"9Remove this use of "verifyPhoneNumber"; it is deprecated.(Ú©ã¬ıÿÿÿÿ
+˜
+java:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+˜
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+˜
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+˜
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+˜
+java:S1186ª"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+G
+java:S10681"1Remove this unused "resendEnabled" private field.(óºÁ•

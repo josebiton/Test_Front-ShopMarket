@@ -1,0 +1,11 @@
+
+>
+java:S1604-"(Make this anonymous inner class a lambda(üËÓ¥
+=
+java:S16048"(Make this anonymous inner class a lambda(‚¾¸%
+o	java:S116"ZRename this field "rv_metodo_envio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿Ú
+u	java:S116 "aRename this field "btn_siguiente_direcion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ƒ©
+V	java:S1251"<This block of commented-out lines of code should be removed.(…Úìşÿÿÿÿ
+P	java:S125E"<This block of commented-out lines of code should be removed.(€ï 
+P	java:S125U"<This block of commented-out lines of code should be removed.(†¯Œh
+Q	java:S125\"<This block of commented-out lines of code should be removed.(…Êã©

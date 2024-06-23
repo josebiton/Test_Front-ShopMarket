@@ -1,0 +1,27 @@
+
+S
+java:S1128"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'com.task.shopmarket.models.Carrito'.(åÑ¢¦úÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'com.task.shopmarket.utils.LocalStorage'.(¯Àüÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'com.task.shopmarket.adapters.ProductoAdapter'.(á¤èø
+<
+java:S1659("&Declare "p_precio" on a separate line.(ş”ËÕ
+A
+java:S1659("+Declare "p_descripcion" on a separate line.(ş”ËÕ
+;
+java:S1659("%Declare "p_valor" on a separate line.(ş”ËÕ
+=
+java:S1659("'Declare "tv_titulo" on a separate line.(ş”ËÕ
+n	java:S116'"TRename this field "p_addCart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÔéòøÿÿÿÿ
+h	java:S116("SRename this field "p_nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”ËÕ
+h	java:S116("SRename this field "p_precio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”ËÕ
+m	java:S116("XRename this field "p_descripcion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”ËÕ
+g	java:S116("RRename this field "p_valor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”ËÕ
+i	java:S116("TRename this field "tv_titulo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”ËÕ
+h	java:S116)"SRename this field "p_slider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ùº±
+Q	java:S125L"<This block of commented-out lines of code should be removed.(¬‚»Í
+Q
+java:S1874†"5Remove this use of "onBackPressed"; it is deprecated.(ùÃ¦Õøÿÿÿÿ

@@ -1,0 +1,20 @@
+
+a
+java:S1192r"FDefine a constant instead of duplicating this literal "ORDER" 4 times.(Ïö¯ûýÿÿÿÿ
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ£Þçþÿÿÿÿ
+k	java:S116""WRename this field "PRIVATE_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™èo
+h	java:S116#"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òº€²
+T
+java:S2168,"9Remove this dangerous instance of double-checked locking.(¬ÜŒÖþÿÿÿÿ
+U
+java:S1117X":Rename "editor" which hides the field declared at line 11.(¯‘øÉùÿÿÿÿ
+U
+java:S1117e":Rename "editor" which hides the field declared at line 11.(¯‘øÉùÿÿÿÿ
+U
+java:S1117k":Rename "editor" which hides the field declared at line 11.(¯‘øÉùÿÿÿÿ
+U
+java:S1117y":Rename "editor" which hides the field declared at line 11.(¯‘øÉùÿÿÿÿ
+U
+java:S1117":Rename "editor" which hides the field declared at line 11.(¯‘øÉùÿÿÿÿ
+O
+java:S1068"4Remove this unused "KEY_IS_LOGGED_IN" private field.(þÛ²Üúÿÿÿÿ

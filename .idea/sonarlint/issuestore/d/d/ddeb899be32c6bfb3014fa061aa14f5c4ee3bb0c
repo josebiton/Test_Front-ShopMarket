@@ -1,0 +1,9 @@
+
+
+java:S1319'"yThe type of the "listaCategoria" object should be an interface such as "List" rather than the implementation "ArrayList".(‘ì³†
+b
+java:S1192/"GDefine a constant instead of duplicating this literal "Inicio" 3 times.(€‘õ´şÿÿÿÿ
+>
+java:S1604P"(Make this anonymous inner class a lambda(ëöò
+c	java:S116"NRename this field "Tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üÿ÷Î
+l	java:S116r"WRename this field "ll_categoria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ï°˜

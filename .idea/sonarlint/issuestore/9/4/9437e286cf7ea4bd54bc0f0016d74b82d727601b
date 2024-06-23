@@ -1,0 +1,11 @@
+
+G
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ
+H
+java:S1659T"-Declare "env_descripcion" on a separate line.(À—€¯þÿÿÿÿ
+C
+java:S1659T"(Declare "env_precio" on a separate line.(À—€¯þÿÿÿÿ
+i	java:S116S"URename this field "envio_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®‚ŽG
+o	java:S116T"URename this field "env_nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À—€¯þÿÿÿÿ
+t	java:S116T"ZRename this field "env_descripcion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À—€¯þÿÿÿÿ
+o	java:S116T"URename this field "env_precio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À—€¯þÿÿÿÿ
