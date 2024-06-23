@@ -1,6 +1,8 @@
 plugins {
     id("com.android.application")
     id("com.google.gms.google-services")
+    id("org.sonarqube") version "5.0.0.4638"
+
 }
 
 android {
@@ -53,10 +55,6 @@ dependencies {
 
     // Bottom Navigation
     implementation ("com.google.zxing:core:3.4.1")
-
-
-
-
     implementation(platform("com.google.firebase:firebase-bom:32.4.0"))
     implementation("com.google.firebase:firebase-auth")
 
@@ -67,7 +65,10 @@ dependencies {
     implementation ("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation ("androidx.legacy:legacy-support-v4:1.0.0")
 
+    // Dependencias para pruebas unitarias
     testImplementation("junit:junit:4.13.2")
-    androidTestImplementation("androidx.test.ext:junit:1.1.5")
-    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    testImplementation("org.mockito:mockito-core:4.2.0")
+    testImplementation("org.mockito:mockito-inline:3.11.2")
+    testImplementation("org.jetbrains.kotlin:kotlin-test:1.8.22")
+    testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.8.22")
 }

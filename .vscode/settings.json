@@ -1,3 +1,7 @@
 {
-    "docwriter.language": "Spanish"
+    "docwriter.language": "Spanish",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "http-127-0-0-1-9000-",
+        "projectKey": "shopmarketapp"
+    }
 }

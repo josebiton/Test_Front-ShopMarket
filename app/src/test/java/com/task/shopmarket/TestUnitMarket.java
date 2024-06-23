@@ -5,10 +5,12 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Objects;
 
-public class pruebasunitariasminimarket {
+public class TestUnitMarket {
 
     private CarritoDeCompras carrito;
     private Inventario inventario;
@@ -64,7 +66,7 @@ public class pruebasunitariasminimarket {
         assertFalse(inventario.estaProductoDisponible(manzana));
     }
 
-    // Clases y métodos simulados para las pruebas
+    // Clases y métodos
     static class CarritoDeCompras {
         private List<Producto> productos = new ArrayList<>();
         private double descuento = 0.0;
@@ -95,8 +97,26 @@ public class pruebasunitariasminimarket {
     }
 
     static class Inventario {
-        // Simulación de métodos de la clase Inventario
-        // Implementa los métodos necesarios para las pruebas
+        private Map<Producto, Integer> productos = new HashMap<>();
+
+        public void agregarProducto(Producto producto, int cantidad) {
+            productos.put(producto, productos.getOrDefault(producto, 0) + cantidad);
+        }
+
+        public void reducirCantidadProducto(Producto producto, int cantidad) {
+            if (productos.containsKey(producto)) {
+                int nuevaCantidad = productos.get(producto) - cantidad;
+                if (nuevaCantidad <= 0) {
+                    productos.remove(producto);
+                } else {
+                    productos.put(producto, nuevaCantidad);
+                }
+            }
+        }
+
+        public boolean estaProductoDisponible(Producto producto) {
+            return productos.containsKey(producto) && productos.get(producto) > 0;
+        }
     }
 
     static class Producto {
