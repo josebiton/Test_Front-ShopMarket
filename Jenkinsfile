@@ -24,6 +24,12 @@ pipeline {
                 sh './gradlew test'
                 echo 'Unit Test successfully'
             }
+            post {
+                always {
+                    // Publicar los resultados de las pruebas en Jenkins
+                    junit '/build/test-results/testDebugUnitTest/*.xml'
+                    }
+                }
             
         }
         // Revisa la calidad de código con SonarQube
