@@ -21,8 +21,8 @@ pipeline {
         stage('Testing the code') {
             steps {
                 sh 'chmod +x ./gradlew'
-                sh './gradlew test'
-                junit '/build/test-results//*.xml'
+                sh './gradlew test --info'
+                
                 echo 'Pruebas unitaria realizada con éxito'
             }     
             
