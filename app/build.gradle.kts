@@ -52,6 +52,7 @@ dependencies {
 
     implementation ("com.android.volley:volley:1.2.1")
     implementation ("io.jsonwebtoken:jjwt:0.9.1")
+    implementation ("ch.qos.logback:logback-classic:1.2.3")
 
     // Bottom Navigation
     implementation ("com.google.zxing:core:3.4.1")
